@@ -37,4 +37,4 @@ KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE)(Youtube) よく聞くBGM
 [Pixabay](https://pixabay.com/)  
 MartinStr氏の水中の写真とChrisFiedler氏の羊皮紙のテクスチャ
 
-あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を捧げて。
+あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を寄せて
