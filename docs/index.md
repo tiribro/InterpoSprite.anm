@@ -21,7 +21,7 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
   <tbody>
     <tr>
       <td><a href="./tutorial"><img src="img/one_tuto.jpg" /></a><br />より詳しい手順を<a href="./tutorial">スライドで見る</a></td>
-      <td><ol><li>タイムラインにスプライト画像を作る</li><li>「アニメーション効果」フィルターを追加して、スプライトスクリプトのanmを読み込む</li><li>スプライト画像の分割数（コマ数）を指定してオワリ！！</li></ol></td>
+      <td><ol><li>タイムラインにスプライト画像を作る</li><li>アニメーション効果フィルタでスプライトanmを読み込む</li><li>スプライト画像の分割数（コマ数）を指定してオワリ！！</li></ol></td>
     </tr>
   </tbody>
 </table>
