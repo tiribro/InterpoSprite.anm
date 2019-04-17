@@ -17,13 +17,12 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 
 ## チュートリアル
 
-より詳しい手順を<a href="./tutorial">スライドで見る</a>
-
-<a href="./tutorial"><img src="img/one_tuto.jpg" /></a>  
-
 1. タイムラインにスプライト画像を作る  
 1. アニメーション効果でanmを読み込む  
 1. スプライト画像の分割数（コマ数）を指定してオワリ！！  
+より詳しい手順を<a href="./tutorial">スライドで見る</a>  
+<a href="./tutorial"><img src="img/one_tuto.jpg" /></a>  
+
 
 <table>
   <tbody>
