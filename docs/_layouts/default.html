@@ -25,15 +25,19 @@
   <body>
 
     <header class="page-header" role="banner">
-      <a class="project-head" href="{{ site.baseurl }}">
-        <main class="main-content" role="main" style="padding:0"><img src="img/title_art.jpg" style="width:100%"></main>
-      </a>
+      <div class="main-content" style="padding:0;">
+        <a class="project-head" href="{{ site.baseurl }}"><img src="img/title_art.jpg" style="width:100%"></a>
+      </div>
+      
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-      <div style="padding-left:64px; padding-right:64px">
+      <div style="padding-left:2em; padding-right:2em">
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      </div>
+      <div style="padding-left:6em; padding-right:6em">
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
+        <!-- <a href="./" class="btn">トップ</a> -->
         <a href="./ja_license" class="btn">無料のライセンス</a>
         <a href="./install" class="btn">インストール方法</a>
         <a href="./tutorial" class="btn">チュートリアル</a>
@@ -44,7 +48,21 @@
       {% endif %}
       </div>
     </header>
-
+    
+    <div class="main-content" style="padding:0; height:0;">
+      <div style="padding:0; height:0; width:4em; margin-right:1em; margin-left:auto;">
+        <div style="width:4em; height:10em; position:relative; top:-10em;">
+          <a class="project-head" href="{{ site.baseurl }}">
+            <img src="img/hbtn_top50a.png">
+          </a>
+          <br>
+          <a class="project-head" href="{{ site.github.zip_url }}">
+            <img src="img/hbtn_zip50a.png">
+          </a>
+        </div>
+      </div>
+    </div>
+    
     <main id="content" class="main-content" role="main">
       {{ content }}
 
