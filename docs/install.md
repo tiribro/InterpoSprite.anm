@@ -3,12 +3,18 @@
 あらかじめPCに「Aviutl」と「拡張編集」を導入しておいてください
 
 Aviutlと拡張編集が構築できましたら  
-同梱のAviutl100フォルダの中にある
+zipファイルの中にあるスクリプトフォルダ
 
-- script
+<table class="file-tree">
+  <tbody>
+    <tr>
+      <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
+      <td>script</td>
+    </tr>
+  </tbody>
+</table>
 
-このスプライトスクリプトデータを  
-お使いのPCのAviutlフォルダの直下にコピーしてください。  
+このスクリプトフォルダをお使いのPCのAviutlフォルダにコピーしてください。  
 （Aviutl.exeファイルと同じ階層にコピーします）
 
 例えば以下のようになっていれば正常です。
@@ -20,21 +26,22 @@ Aviutlと拡張編集が構築できましたら
       <td colspan="3">Aviutl100（Aviutlが入っているフォルダ）</td>
     </tr>
     <tr>
-      <td></td>
+      <td class="file-tree-line-cell"><img src="img/icon_treeline_t_rre.png"></td>
       <td class="file-tree-icon-cell"><img src="img/icon_aviutl.png"></td>
       <td colspan="2">Aviutl.exe</td>
     </tr>
     <tr>
-      <td></td>
+      <td class="file-tree-line-cell"><img src="img/icon_treeline_corner_er.png"></td>
       <td class="file-tree-icon-cell"><img src="img/icon_folder.png"></td>
       <td colspan="2">script</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
+      <td></td>
+      <td class="file-tree-line-cell"><img src="img/icon_treeline_corner_rr.png"></td>
       <td class="file-tree-icon-cell"><img src="img/icon_paper.png"></td>
       <td>いんたぽスプライト.anm</td>
     </tr>
   </tbody>
 </table>
 
-既存のAviutl100&yen;scriptフォルダがある場合は、混ぜてしまって大丈夫です
+（既存のAviutl100&yen;scriptフォルダがある場合は、混ぜてしまって大丈夫です）
