@@ -16,16 +16,16 @@ zipに梱包されたscriptフォルダをお使いのAviutlフォルダにコ�
 より詳しい手順は[こちらのインストールページ](./install)を参照してください
 
 ## チュートリアル
+1. タイムラインにスプライト画像を作る
+1. 「アニメーション効果」フィルターを追加して、スプライトスクリプトのanmを読み込む
+1. スプライト画像の分割数（コマ数）を指定してオワリ！！
 
-1. タイムラインにスプライト画像を作る  
-1. アニメーション効果でanmを読み込む  
-1. スプライト画像の分割数（コマ数）を指定してオワリ！！  
-
-より詳しい手順を<a href="./tutorial">スライドで見る</a>  
-<a href="./tutorial"><img src="img/one_tuto.jpg" /></a>
-
-## 詳しいパラメータについて
-[こちらの詳細ドキュメント](./details)を参照してください
+<div class="wideimage-caption-block">
+  <div>
+    <div><a href="./tutorial"><img src="img/one_tuto.jpg"/></a></div>
+    <div class="wideimage-caption">より詳しい手順を <a href="./tutorial">スライドで見る</a></div>
+  </div>
+</div>
 
 ## 謝辞とクレジット
 チュートリアルなどを作成するにあたり以下の素材サイトを利用させていただきました
@@ -40,6 +40,6 @@ KK氏の[自宅にて](https://youtu.be/JGzLOY7M0yE)(Youtube) よく聞くBGM
 いつもお世話になっています。
 
 [Pixabay](https://pixabay.com/)  
-MartinStr氏（水中の写真）、ChrisFiedler氏（羊皮紙のテクスチャ）、bartekhdd氏（シネマフィルムのアイコン）、insspirito氏（アイコン集）
+MartinStr氏の水中の写真とChrisFiedler氏の羊皮紙のテクスチャ
 
-あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を寄せて
+あまり謝辞を長くするとキリがないので、とりあえず今遊んでいるゲームに感謝を捧げて。
